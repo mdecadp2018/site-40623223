@@ -268,6 +268,8 @@ def download():
         return send_from_directory(image_dir, filename=filename)
     
 
+#@app.route('/download_list', defaults={'edit':1})
+#@app.route('/download_list/&lt;path:edit&gt;')
 </t>
 <t tx="amd.20160714230833.17"># setup static directory
 #@app.route('/images/&lt;path:path&gt;')
@@ -1459,6 +1461,7 @@ def file_selector():
 
 </t>
 <t tx="amd.20160715160505.1">@app.route('/download_list', methods=['GET'])
+#def download_list(edit, item_per_page=5, page=1, keyword=None):
 def download_list():
     """List files in downloads directory."""
     if not isAdmin():
@@ -1477,14 +1480,11 @@ def download_list():
         else:
             item_per_page = request.args.get('item_per_page')
         if not request.args.get('keyword'):
-            keyword = ""
+            keyword = None
         else:
             keyword = request.args.get('keyword')
-            session['download_keyword'] = keyword
+        
     files = os.listdir(download_dir)
-    if keyword is not "":
-        files = [elem for elem in files if str(keyword) in elem]
-    files.sort()
     total_rows = len(files)
     totalpage = math.ceil(total_rows/int(item_per_page))
     starti = int(item_per_page) * (int(page) - 1) + 1
@@ -1585,32 +1585,12 @@ def download_list():
 
 
 </t>
-<t tx="amd.20160715160642.1">@app.route('/image_list', methods=['GET'])
-def image_list():
+<t tx="amd.20160715160642.1">@app.route('/image_list', defaults={'edit':1})
+@app.route('/image_list/&lt;path:edit&gt;')
+def image_list(edit, item_per_page=5, page=1, keyword=None):
     if not isAdmin():
         return redirect("/login")
-    else:
-        if not request.args.get('edit'):
-            edit= 1
-        else:
-            edit = request.args.get('edit')
-        if not request.args.get('page'):
-            page = 1
-        else:
-            page = request.args.get('page')
-        if not request.args.get('item_per_page'):
-            item_per_page = 10
-        else:
-            item_per_page = request.args.get('item_per_page')
-        if not request.args.get('keyword'):
-            keyword = ""
-        else:
-            keyword = request.args.get('keyword')
-            session['image_keyword'] = keyword
     files = os.listdir(image_dir)
-    if keyword is not "":
-        files = [elem for elem in files if str(keyword) in elem]
-    files.sort()
     total_rows = len(files)
     totalpage = math.ceil(total_rows/int(item_per_page))
     starti = int(item_per_page) * (int(page) - 1) + 1
@@ -1624,13 +1604,13 @@ def image_list():
         if int(page) &gt; 1:
             outstring += "&lt;a href='"
             outstring += "image_list?&amp;amp;page=1&amp;amp;item_per_page=" + \
-                              str(item_per_page) + "&amp;amp;keyword=" + str(session.get('image_keyword'))
+                              str(item_per_page) + "&amp;amp;keyword=" + str(session.get('download_keyword'))
             outstring += "'&gt;&lt;&lt;&lt;/a&gt; "
             page_num = int(page) - 1
             outstring += "&lt;a href='"
             outstring += "image_list?&amp;amp;page=" + str(page_num) + \
                               "&amp;amp;item_per_page=" + str(item_per_page) + \
-                              "&amp;amp;keyword=" + str(session.get('image_keyword'))
+                              "&amp;amp;keyword=" + str(session.get('download_keyword'))
             outstring += "'&gt;Previous&lt;/a&gt; "
         span = 10
         for index in range(int(page)-span, int(page)+span):
@@ -1642,7 +1622,7 @@ def image_list():
                     outstring += "&lt;a href='"
                     outstring += "image_list?&amp;amp;page=" + str(page_now) + \
                                       "&amp;amp;item_per_page=" + str(item_per_page) + \
-                                      "&amp;amp;keyword=" + str(session.get('image_keyword'))
+                                      "&amp;amp;keyword=" + str(session.get('download_keyword'))
                     outstring += "'&gt;" + str(page_now) + "&lt;/a&gt; "
 
         if notlast == True:
@@ -1650,12 +1630,12 @@ def image_list():
             outstring += " &lt;a href='"
             outstring += "image_list?&amp;amp;page=" + str(nextpage) + \
                               "&amp;amp;item_per_page=" + str(item_per_page) + \
-                              "&amp;amp;keyword=" + str(session.get('image_keyword'))
+                              "&amp;amp;keyword=" + str(session.get('download_keyword'))
             outstring += "'&gt;Next&lt;/a&gt;"
             outstring += " &lt;a href='"
             outstring += "image_list?&amp;amp;page=" + str(totalpage) + \
                               "&amp;amp;item_per_page=" + str(item_per_page) + \
-                              "&amp;amp;keyword=" + str(session.get('image_keyword'))
+                              "&amp;amp;keyword=" + str(session.get('download_keyword'))
             outstring += "'&gt;&gt;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;"
         if (int(page) * int(item_per_page)) &lt; total_rows:
             notlast = True
@@ -1667,13 +1647,13 @@ def image_list():
         if int(page) &gt; 1:
             outstring += "&lt;a href='"
             outstring += "image_list?&amp;amp;page=1&amp;amp;item_per_page=" + \
-                              str(item_per_page) + "&amp;amp;keyword=" + str(session.get('image_keyword'))
+                              str(item_per_page) + "&amp;amp;keyword=" + str(session.get('download_keyword'))
             outstring += "'&gt;&lt;&lt;&lt;/a&gt; "
             page_num = int(page) - 1
             outstring += "&lt;a href='"
             outstring += "image_list?&amp;amp;page=" + str(page_num) + \
                               "&amp;amp;item_per_page=" + str(item_per_page) + \
-                              "&amp;amp;keyword=" + str(session.get('image_keyword'))
+                              "&amp;amp;keyword=" + str(session.get('download_keyword'))
             outstring += "'&gt;Previous&lt;/a&gt; "
         span = 10
         for index in range(int(page)-span, int(page)+span):
@@ -1685,19 +1665,19 @@ def image_list():
                     outstring += "&lt;a href='"
                     outstring += "image_list?&amp;amp;page=" + str(page_now) + \
                                       "&amp;amp;item_per_page=" + str(item_per_page) + \
-                                      "&amp;amp;keyword=" + str(session.get('image_keyword'))
+                                      "&amp;amp;keyword=" + str(session.get('download_keyword'))
                     outstring += "'&gt;"+str(page_now) + "&lt;/a&gt; "
         if notlast == True:
             nextpage = int(page) + 1
             outstring += " &lt;a href='"
             outstring += "image_list?&amp;amp;page=" + str(nextpage) + \
                               "&amp;amp;item_per_page=" + str(item_per_page) + \
-                              "&amp;amp;keyword=" + str(session.get('image_keyword'))
+                              "&amp;amp;keyword=" + str(session.get('download_keyword'))
             outstring += "'&gt;Next&lt;/a&gt;"
             outstring += " &lt;a href='"
             outstring += "image_list?&amp;amp;page=" + str(totalpage) + \
                               "&amp;amp;item_per_page=" + str(item_per_page) + \
-                              "&amp;amp;keyword=" + str(session.get('image_keyword'))
+                              "&amp;amp;keyword=" + str(session.get('download_keyword'))
             outstring += "'&gt;&gt;&gt;&lt;/a&gt;"
     else:
         outstring += "no data!"

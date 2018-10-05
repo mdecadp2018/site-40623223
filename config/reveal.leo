@@ -21,11 +21,19 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181005193129.1" a="E"><vh>w1</vh>
+<v t="leo.20181005195703.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181005195722.1"><vh>onshape homework</vh></v>
+</v>
+<v t="leo.20181005195620.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181005195620.2"><vh>投影片快捷鍵</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -127,6 +135,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
 
 ### 虎科大機械設計工程系
+40623223 任明彥
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
@@ -325,6 +334,38 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181005193129.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181005195620.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181005195620.2">### 心得
+
+在第四周開始錄製影片,onshape上的操作並沒有甚麼太大的問題,主要是它的操作說明是全英文的而感到吃力,還有就是英英字典用了還是看不懂這個狀況,使我深深地感到自己的程度是多麼的低落
+
+</t>
+<t tx="leo.20181005195703.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181005195722.1">## onshape homework影片 w4
+
+&lt;div style="position:relative;height:0;padding-bottom:53.65%"&gt;&lt;iframe src="https://www.youtube.com/embed/S0LMzLo3-e4?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="650" height="300" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 </t>
 </tnodes>
 </leo_file>
