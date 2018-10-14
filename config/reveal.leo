@@ -27,12 +27,20 @@
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181005193129.1"><vh>w1</vh>
+<v t="leo.20181005193129.1"><vh>w4</vh>
 <v t="leo.20181005195703.1"><vh>onshape homework</vh>
 <v t="leo.20181005195722.1"><vh>1-1</vh></v>
 </v>
 <v t="leo.20181005195620.1"><vh>心得</vh>
 <v t="leo.20181005195620.2"><vh>1-2</vh></v>
+</v>
+</v>
+<v t="leo.20181015035758.1" a="E"><vh>w5</vh>
+<v t="leo.20181015035758.2" a="E"><vh>onshape homework</vh>
+<v t="leo.20181015035758.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20181015035758.4"><vh>心得</vh>
+<v t="leo.20181015035758.5"><vh>1-2</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -366,6 +374,37 @@ make.start()
 <t tx="leo.20181005195722.1">## onshape homework影片 w4
 
 &lt;div style="position:relative;height:0;padding-bottom:53.65%"&gt;&lt;iframe src="https://www.youtube.com/embed/S0LMzLo3-e4?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="650" height="300" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</t>
+<t tx="leo.20181015035758.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181015035758.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181015035758.3">## onshape homework影片 w4
+
+&lt;div style="position:relative;height:0;padding-bottom:53.65%"&gt;&lt;iframe src="https://www.youtube.com/embed/ZCd_uYT5kyI?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="671" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</t>
+<t tx="leo.20181015035758.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181015035758.5">### 心得
+
+在第四周開始錄製影片,onshape上的操作並沒有甚麼太大的問題,主要是它的操作說明是全英文的而感到吃力,還有就是英英字典用了還是看不懂這個狀況,使我深深地感到自己的程度是多麼的低落
+
 </t>
 </tnodes>
 </leo_file>
