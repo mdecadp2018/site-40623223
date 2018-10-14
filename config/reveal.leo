@@ -39,7 +39,7 @@
 <v t="leo.20181015035758.2" a="E"><vh>onshape homework</vh>
 <v t="leo.20181015035758.3"><vh>1-1</vh></v>
 </v>
-<v t="leo.20181015035758.4"><vh>心得</vh>
+<v t="leo.20181015035758.4" a="E"><vh>心得</vh>
 <v t="leo.20181015035758.5"><vh>1-2</vh></v>
 </v>
 </v>
@@ -389,7 +389,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015035758.3">## onshape homework影片 w4
+<t tx="leo.20181015035758.3">## onshape homework影片 w5
 
 &lt;div style="position:relative;height:0;padding-bottom:53.65%"&gt;&lt;iframe src="https://www.youtube.com/embed/ZCd_uYT5kyI?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="671" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</t>
 <t tx="leo.20181015035758.4">&lt;section data-markdown&gt;
@@ -403,7 +403,6 @@ make.start()
 </t>
 <t tx="leo.20181015035758.5">### 心得
 
-在第四周開始錄製影片,onshape上的操作並沒有甚麼太大的問題,主要是它的操作說明是全英文的而感到吃力,還有就是英英字典用了還是看不懂這個狀況,使我深深地感到自己的程度是多麼的低落
 
 </t>
 </tnodes>
