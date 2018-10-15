@@ -12,3 +12,7 @@ cpgx 網站: https://cpgx.kmol.info
 onshape : https://www.onshape.com
 
 遠端網址 :https://mdecadp2018.github.io/site-40623223
+
+投影片:https://mdecadp2018.github.io/site-40623223/revea
+
+blog:https://mdecadp2018.github.io/site-40623223/blog
