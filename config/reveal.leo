@@ -21,21 +21,47 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
+<v t="leo.20181029105039.1"><vh>首</vh>
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181005193129.1"><vh>w4</vh>
-<v t="leo.20181005195703.1"><vh>onshape homework</vh>
+</v>
+<v t="leo.20181029105231.1" a="E"><vh>w1</vh>
+<v t="leo.20181029105231.2" a="E"><vh>onshape homework</vh>
+<v t="leo.20181029105231.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20181029105231.4" a="E"><vh>心得</vh>
+<v t="leo.20181029105231.5"><vh>1-2</vh></v>
+</v>
+</v>
+<v t="leo.20181029105232.1" a="E"><vh>w2</vh>
+<v t="leo.20181029105232.2" a="E"><vh>onshape homework</vh>
+<v t="leo.20181029105232.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20181029105232.4" a="E"><vh>心得</vh>
+<v t="leo.20181029105232.5"><vh>1-2</vh></v>
+</v>
+</v>
+<v t="leo.20181029105243.1"><vh>w3</vh>
+<v t="leo.20181029105243.2" a="E"><vh>onshape homework</vh>
+<v t="leo.20181029105243.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20181029105243.4"><vh>心得</vh>
+<v t="leo.20181029105243.5"><vh>1-2</vh></v>
+</v>
+</v>
+<v t="leo.20181005193129.1" a="E"><vh>w4</vh>
+<v t="leo.20181005195703.1" a="E"><vh>onshape homework</vh>
 <v t="leo.20181005195722.1"><vh>1-1</vh></v>
 </v>
 <v t="leo.20181005195620.1"><vh>心得</vh>
 <v t="leo.20181005195620.2"><vh>1-2</vh></v>
 </v>
 </v>
-<v t="leo.20181015035758.1" a="E"><vh>w5</vh>
+<v t="leo.20181015035758.1"><vh>w5</vh>
 <v t="leo.20181015035758.2" a="E"><vh>onshape homework</vh>
 <v t="leo.20181015035758.3"><vh>1-1</vh></v>
 </v>
@@ -373,7 +399,7 @@ make.start()
 </t>
 <t tx="leo.20181005195722.1">## onshape homework影片 w4
 
-&lt;div style="position:relative;height:0;padding-bottom:53.65%"&gt;&lt;iframe src="https://www.youtube.com/embed/S0LMzLo3-e4?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="650" height="300" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
 </t>
 <t tx="leo.20181015035758.1">&lt;section&gt;
 @others
@@ -391,7 +417,9 @@ make.start()
 </t>
 <t tx="leo.20181015035758.3">## onshape homework影片 w5
 
-&lt;div style="position:relative;height:0;padding-bottom:53.65%"&gt;&lt;iframe src="https://www.youtube.com/embed/ZCd_uYT5kyI?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="671" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</t>
+&lt;div style="position:relative;height:0;padding-bottom:53.65%"&gt;&lt;iframe src="https://www.youtube.com/embed/ZCd_uYT5kyI?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="671" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+</t>
 <t tx="leo.20181015035758.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -403,6 +431,98 @@ make.start()
 </t>
 <t tx="leo.20181015035758.5">### 心得
 
+
+</t>
+<t tx="leo.20181029105039.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181029105231.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181029105231.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029105231.3">## w1
+第一周還沒上什麼進度,就複習以前上的,影片是之後拍的
+&lt;div style="position:relative;height:0;padding-bottom:53.65%"&gt;&lt;iframe src="https://www.youtube.com/embed/S0LMzLo3-e4?ecver=2" style="position:absolute;width:80%;height:80%;left:10%" width="650" height="300" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</t>
+<t tx="leo.20181029105231.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029105231.5">### 心得
+一進到教室,一年級痛苦的回憶都一一浮現在腦海中,看了看選課的網站,是必修,真他媽棒,連退路都沒有,這一定是冥禁黨的陰謀,蔡英文下台</t>
+<t tx="leo.20181029105232.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181029105232.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029105232.3">## w2
+</t>
+<t tx="leo.20181029105232.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029105232.5">### 心得
+
+
+</t>
+<t tx="leo.20181029105243.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181029105243.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029105243.3">## w3
+</t>
+<t tx="leo.20181029105243.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029105243.5">### 心得
+
+在第四周開始錄製影片,onshape上的操作並沒有甚麼太大的問題,主要是它的操作說明是全英文的而感到吃力,還有就是英英字典用了還是看不懂這個狀況,使我深深地感到自己的程度是多麼的低落
 
 </t>
 </tnodes>
