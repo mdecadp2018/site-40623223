@@ -29,16 +29,16 @@
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
-<v t="leo.20181029105231.1" a="E"><vh>w1</vh>
-<v t="leo.20181029105231.2" a="E"><vh>onshape homework</vh>
+<v t="leo.20181029105231.1"><vh>w1</vh>
+<v t="leo.20181029105231.2" a="E"><vh>onshape homework(無)</vh>
 <v t="leo.20181029105231.3"><vh>1-1</vh></v>
 </v>
 <v t="leo.20181029105231.4" a="E"><vh>心得</vh>
 <v t="leo.20181029105231.5"><vh>1-2</vh></v>
 </v>
 </v>
-<v t="leo.20181029105232.1" a="E"><vh>w2</vh>
-<v t="leo.20181029105232.2" a="E"><vh>onshape homework</vh>
+<v t="leo.20181029105232.1"><vh>w2</vh>
+<v t="leo.20181029105232.2" a="E"><vh>onshape homework(無)</vh>
 <v t="leo.20181029105232.3"><vh>1-1</vh></v>
 </v>
 <v t="leo.20181029105232.4" a="E"><vh>心得</vh>
@@ -49,11 +49,11 @@
 <v t="leo.20181029105243.2" a="E"><vh>onshape homework</vh>
 <v t="leo.20181029105243.3"><vh>1-1</vh></v>
 </v>
-<v t="leo.20181029105243.4"><vh>心得</vh>
+<v t="leo.20181029105243.4" a="E"><vh>心得</vh>
 <v t="leo.20181029105243.5"><vh>1-2</vh></v>
 </v>
 </v>
-<v t="leo.20181005193129.1" a="E"><vh>w4</vh>
+<v t="leo.20181005193129.1"><vh>w4</vh>
 <v t="leo.20181005195703.1" a="E"><vh>onshape homework</vh>
 <v t="leo.20181005195722.1"><vh>1-1</vh></v>
 </v>
@@ -61,15 +61,39 @@
 <v t="leo.20181005195620.2"><vh>1-2</vh></v>
 </v>
 </v>
-<v t="leo.20181015035758.1"><vh>w5</vh>
-<v t="leo.20181015035758.2" a="E"><vh>onshape homework</vh>
+<v t="leo.20181015035758.1" a="E"><vh>w5</vh>
+<v t="leo.20181015035758.2"><vh>onshape homework</vh>
 <v t="leo.20181015035758.3"><vh>1-1</vh></v>
 </v>
 <v t="leo.20181015035758.4" a="E"><vh>心得</vh>
 <v t="leo.20181015035758.5"><vh>1-2</vh></v>
 </v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20181104210919.1" a="E"><vh>w6</vh>
+<v t="leo.20181104210919.2"><vh>onshape homework</vh>
+<v t="leo.20181104210919.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20181104210919.4"><vh>心得</vh>
+<v t="leo.20181104210919.5"><vh>1-2</vh></v>
+</v>
+</v>
+<v t="leo.20181104210921.1" a="E"><vh>w7</vh>
+<v t="leo.20181104210921.2"><vh>onshape homework</vh>
+<v t="leo.20181104210921.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20181104210921.4"><vh>心得</vh>
+<v t="leo.20181104210921.5"><vh>1-2</vh></v>
+</v>
+</v>
+<v t="leo.20181104210931.1" a="E"><vh>w8</vh>
+<v t="leo.20181104210931.2"><vh>onshape homework</vh>
+<v t="leo.20181104210931.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20181104210931.4" a="E"><vh>心得</vh>
+<v t="leo.20181104210931.5"><vh>1-2</vh></v>
+</v>
+</v>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -399,8 +423,7 @@ make.start()
 </t>
 <t tx="leo.20181005195722.1">## onshape homework影片 w4
 
-
-</t>
+&lt;div style="position:relative;height:0;padding-bottom:53.65%"&gt;&lt;iframe src="https://www.youtube.com/embed/S0LMzLo3-e4?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="671" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</t>
 <t tx="leo.20181015035758.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -430,8 +453,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181015035758.5">### 心得
+(我決定摳網站上的)
 
-
+至此處點選作業,練習如下圖之題目,並閱讀其教材,把不懂的英文單字寫在筆記本上,但是筆記本可能寫不下這麼多所以作罷
 </t>
 <t tx="leo.20181029105039.1">&lt;section&gt;
 @others
@@ -453,8 +477,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181029105231.3">## w1
-第一周還沒上什麼進度,就複習以前上的,影片是之後拍的
-&lt;div style="position:relative;height:0;padding-bottom:53.65%"&gt;&lt;iframe src="https://www.youtube.com/embed/S0LMzLo3-e4?ecver=2" style="position:absolute;width:80%;height:80%;left:10%" width="650" height="300" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</t>
+第一周還沒上什麼進度,就複習以前上的github複習跟隨身系統之類的東西,還沒有作業
+
+</t>
 <t tx="leo.20181029105231.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -465,7 +490,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181029105231.5">### 心得
-一進到教室,一年級痛苦的回憶都一一浮現在腦海中,看了看選課的網站,是必修,真他媽棒,連退路都沒有,這一定是冥禁黨的陰謀,蔡英文下台</t>
+一進到教室,一年級痛苦的回憶都一一浮現在腦海中,看了看選課的網站,是必修,真他媽棒,連退路都沒有,這一定是冥禁黨的陰謀,蔡英文下台
+
+</t>
 <t tx="leo.20181029105232.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -481,7 +508,7 @@ make.start()
 						
 </t>
 <t tx="leo.20181029105232.3">## w2
-</t>
+第二週在幹嘛已經忘了,到底上了什麼???</t>
 <t tx="leo.20181029105232.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -492,9 +519,7 @@ make.start()
 						
 </t>
 <t tx="leo.20181029105232.5">### 心得
-
-
-</t>
+下周放假,想吃肉,喝酒.......喝....喝酒.......,等等剛剛上課在上什麼?</t>
 <t tx="leo.20181029105243.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -510,7 +535,8 @@ make.start()
 						
 </t>
 <t tx="leo.20181029105243.3">## w3
-</t>
+放假啦!!!!!warrrrryyyyyyyyyyyy!!!!!!!!
+&lt;img src="/images/nmXnUZA.jpg" width="314" height="400" alt=""&gt;</t>
 <t tx="leo.20181029105243.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -521,8 +547,98 @@ make.start()
 						
 </t>
 <t tx="leo.20181029105243.5">### 心得
+喝酒.......喝....喝酒.......,吃......吃肉.......,蛤?工數小考?那是什麼?頭好痛,想不起來是什麼
+</t>
+<t tx="leo.20181104210919.1">&lt;section&gt;
+@others
+&lt;/section&gt;
 
-在第四周開始錄製影片,onshape上的操作並沒有甚麼太大的問題,主要是它的操作說明是全英文的而感到吃力,還有就是英英字典用了還是看不懂這個狀況,使我深深地感到自己的程度是多麼的低落
+</t>
+<t tx="leo.20181104210919.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104210919.3">## onshape homework影片 w6
+
+&lt;div style="position:relative;height:0;padding-bottom:46.14%"&gt;&lt;iframe src="https://www.youtube.com/embed/RjJ_Jc6LZWQ?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="671" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</t>
+<t tx="leo.20181104210919.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104210919.5">### 心得
+這個禮拜被念說拍的影片都直接畫,沒有看原文的教材邊看邊學英文,但是這是嘗試過後發現不管是裡面的單字還是句子,開英英字典都看不懂,直接丟翻譯又說白看了,想說那就直接畫圖好了又不行,真的是問題很多ㄟ
+
+</t>
+<t tx="leo.20181104210921.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181104210921.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104210921.3">## onshape homework影片 w7
+
+&lt;div style="position:relative;height:0;padding-bottom:47.08%"&gt;&lt;iframe src="https://www.youtube.com/embed/sgz4pDo6eVs?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="671" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</t>
+<t tx="leo.20181104210921.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104210921.5">### 心得
+今天要登入github的時候一直登不進去,然後去改了密碼,結果github登入時一直跳what is it !?讓我以為是我的帳號是不是出問題了,後來老師說是因為微軟動了什麼伺服來著,才會找不到的樣子,白癡微軟沒事搞這麼麻煩的事幹嘛,那之後只能用fossil了嗎?感覺超麻煩ㄟ,感覺之前做的都白做了,而且現在上傳還沒有用,媽的發科
+
+</t>
+<t tx="leo.20181104210931.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181104210931.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104210931.3">## onshape homework影片 w8
+
+沒做</t>
+<t tx="leo.20181104210931.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104210931.5">### 心得
+github恢復了,普天同慶!
+
+今天上課交了完全無法理解的東西,我想這很可能是所處的維度不同造成的,然後bolg跟revral都只做了一周而已,感覺要爆了,onshape又要看一堆英文就沒什麼幹勁,下周又有期中考,實在是很沒動力看那一堆雜七雜八的公式,
 
 </t>
 </tnodes>
