@@ -61,7 +61,7 @@
 <v t="leo.20181005195620.2"><vh>1-2</vh></v>
 </v>
 </v>
-<v t="leo.20181015035758.1" a="E"><vh>w5</vh>
+<v t="leo.20181015035758.1"><vh>w5</vh>
 <v t="leo.20181015035758.2"><vh>onshape homework</vh>
 <v t="leo.20181015035758.3"><vh>1-1</vh></v>
 </v>
@@ -69,7 +69,7 @@
 <v t="leo.20181015035758.5"><vh>1-2</vh></v>
 </v>
 </v>
-<v t="leo.20181104210919.1" a="E"><vh>w6</vh>
+<v t="leo.20181104210919.1"><vh>w6</vh>
 <v t="leo.20181104210919.2"><vh>onshape homework</vh>
 <v t="leo.20181104210919.3"><vh>1-1</vh></v>
 </v>
@@ -77,7 +77,7 @@
 <v t="leo.20181104210919.5"><vh>1-2</vh></v>
 </v>
 </v>
-<v t="leo.20181104210921.1" a="E"><vh>w7</vh>
+<v t="leo.20181104210921.1"><vh>w7</vh>
 <v t="leo.20181104210921.2"><vh>onshape homework</vh>
 <v t="leo.20181104210921.3"><vh>1-1</vh></v>
 </v>
@@ -85,15 +85,44 @@
 <v t="leo.20181104210921.5"><vh>1-2</vh></v>
 </v>
 </v>
-<v t="leo.20181104210931.1" a="E"><vh>w8</vh>
+<v t="leo.20181104210931.1"><vh>w8</vh>
 <v t="leo.20181104210931.2"><vh>onshape homework</vh>
 <v t="leo.20181104210931.3"><vh>1-1</vh></v>
 </v>
-<v t="leo.20181104210931.4" a="E"><vh>心得</vh>
+<v t="leo.20181104210931.4"><vh>心得</vh>
 <v t="leo.20181104210931.5"><vh>1-2</vh></v>
 </v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20190105130417.1" a="E"><vh>期末分組心得</vh>
+<v t="leo.20190105130417.2"><vh>首</vh>
+<v t="leo.20190105130417.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20190105130417.4"><vh>w10</vh>
+<v t="leo.20190105130417.5"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190105130542.1"><vh>w11</vh>
+<v t="leo.20190105130542.2"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190105130542.3"><vh>w12</vh>
+<v t="leo.20190106232407.1"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190105130542.5" a="E"><vh>w13</vh>
+<v t="leo.20190106232411.1"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190105130543.1"><vh>w14</vh>
+<v t="leo.20190106232418.1"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190105130543.3"><vh>w15</vh>
+<v t="leo.20190106232430.1"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190105130559.1"><vh>w16</vh>
+<v t="leo.20190106232434.1"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190105130559.3"><vh>w17</vh>
+<v t="leo.20190106232437.1"><vh>1-2</vh></v>
+</v>
+</v>
+<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -423,7 +452,9 @@ make.start()
 </t>
 <t tx="leo.20181005195722.1">## onshape homework影片 w4
 
-&lt;div style="position:relative;height:0;padding-bottom:53.65%"&gt;&lt;iframe src="https://www.youtube.com/embed/S0LMzLo3-e4?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="671" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</t>
+&lt;div style="position:relative;height:0;padding-bottom:53.65%"&gt;&lt;iframe src="https://www.youtube.com/embed/S0LMzLo3-e4?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="671" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+</t>
 <t tx="leo.20181015035758.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -508,7 +539,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181029105232.3">## w2
-第二週在幹嘛已經忘了,到底上了什麼???</t>
+第二週在幹嘛已經忘了,到底上了什麼???
+
+</t>
 <t tx="leo.20181029105232.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -519,7 +552,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181029105232.5">### 心得
-下周放假,想吃肉,喝酒.......喝....喝酒.......,等等剛剛上課在上什麼?</t>
+下周放假,想吃肉,喝酒.......喝....喝酒.......,等等剛剛上課在上什麼?
+
+</t>
 <t tx="leo.20181029105243.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -536,7 +571,9 @@ make.start()
 </t>
 <t tx="leo.20181029105243.3">## w3
 放假啦!!!!!warrrrryyyyyyyyyyyy!!!!!!!!
-&lt;img src="/images/nmXnUZA.jpg" width="314" height="400" alt=""&gt;</t>
+&lt;img src="/images/nmXnUZA.jpg" width="314" height="400" alt=""&gt;
+
+</t>
 <t tx="leo.20181029105243.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -565,7 +602,9 @@ make.start()
 </t>
 <t tx="leo.20181104210919.3">## onshape homework影片 w6
 
-&lt;div style="position:relative;height:0;padding-bottom:46.14%"&gt;&lt;iframe src="https://www.youtube.com/embed/RjJ_Jc6LZWQ?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="671" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</t>
+&lt;div style="position:relative;height:0;padding-bottom:46.14%"&gt;&lt;iframe src="https://www.youtube.com/embed/RjJ_Jc6LZWQ?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="671" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+</t>
 <t tx="leo.20181104210919.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -595,7 +634,9 @@ make.start()
 </t>
 <t tx="leo.20181104210921.3">## onshape homework影片 w7
 
-&lt;div style="position:relative;height:0;padding-bottom:47.08%"&gt;&lt;iframe src="https://www.youtube.com/embed/sgz4pDo6eVs?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="671" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</t>
+&lt;div style="position:relative;height:0;padding-bottom:47.08%"&gt;&lt;iframe src="https://www.youtube.com/embed/sgz4pDo6eVs?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="671" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+</t>
 <t tx="leo.20181104210921.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -625,7 +666,9 @@ make.start()
 </t>
 <t tx="leo.20181104210931.3">## onshape homework影片 w8
 
-沒做</t>
+沒做
+
+</t>
 <t tx="leo.20181104210931.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -639,6 +682,126 @@ make.start()
 github恢復了,普天同慶!
 
 今天上課交了完全無法理解的東西,我想這很可能是所處的維度不同造成的,然後bolg跟revral都只做了一周而已,感覺要爆了,onshape又要看一堆英文就沒什麼幹勁,下周又有期中考,實在是很沒動力看那一堆雜七雜八的公式,
+
+</t>
+<t tx="leo.20190105130417.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190105130417.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105130417.3">## 期末分組心得
+
+</t>
+<t tx="leo.20190105130417.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105130417.5">### w10心得
+分組什麼的好麻煩喔，一想到期末要打一堆報告我的頭就好痛，而且主題沒人有任何想法嗎?雖然發在issuse上比較不顯眼拉，但可以理我一下嗎?</t>
+<t tx="leo.20190105130542.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105130542.2">### w11心得
+現在什麼都不想做，只想躺在床上睡一整天，要不然就是睡睡一整天，在不然睡一整天也行，反正我現在想做的事就是睡覺
+
+
+</t>
+<t tx="leo.20190105130542.3">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105130542.5">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105130543.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105130543.3">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105130559.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105130559.3">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106232407.1">### w12心得
+盧秀燕那個草包竟然當選了!那種爛但不行的政見也能上?還有高雄那個有夠莫名的愛情摩天輪.....先幫台中跟高雄上香
+
+</t>
+<t tx="leo.20190106232411.1">### w13心得
+這個禮拜的早餐跟午餐都沒吃，因為懶得吃這種理由會不會有點奇杷阿，雖然有時會餓到快掛了，但過個五到十分鐘就又好了試發生什麼事?
+
+</t>
+<t tx="leo.20190106232418.1">### w14心得
+晚上補課這種方式誰會想去啊，而且還要補三周!?拜託饒了我吧，我想我的感性死都不會讓我去，理性似乎也是這麼想?
+
+</t>
+<t tx="leo.20190106232430.1">### w15心得
+工數的小考爆炸了，真是沒想到公式竟然背錯，估計整張考卷都沒救了.....難過到打不下去
+
+</t>
+<t tx="leo.20190106232434.1">### w16心得
+12/25日是一位勇敢的青年的紀念日，他用一台ms-06-fz向侵略其故鄉的邪惡鋼彈奮戰，在最後重創鋼彈不幸身亡，在這個值得紀念的日子裡，竟然只想到跟別人打炮!給我去把鋼彈0080重看一遍!
+
+</t>
+<t tx="leo.20190106232437.1">### w17心得
+下禮拜就要交報告了，偏偏在這個時給我生病，幾乎每年都要來一次，真的是很痛苦，而且每次都是在假日這種診所沒開的日子，真的是!@#$!
 
 </t>
 </tnodes>
