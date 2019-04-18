@@ -93,7 +93,7 @@
 <v t="leo.20181104210931.5"><vh>1-2</vh></v>
 </v>
 </v>
-<v t="leo.20190105130417.1" a="E"><vh>期末分組心得</vh>
+<v t="leo.20190105130417.1"><vh>期末分組心得</vh>
 <v t="leo.20190105130417.2"><vh>首</vh>
 <v t="leo.20190105130417.3"><vh>1-1</vh></v>
 </v>
@@ -123,6 +123,44 @@
 </v>
 <v t="leo.20190107103018.1" a="E"><vh>w18</vh>
 <v t="leo.20190107103018.2"><vh>1-2</vh></v>
+</v>
+</v>
+<v t="leo.20190419020340.1" a="E"><vh>期中分組報告</vh>
+<v t="leo.20190419020340.2" a="E"><vh>首</vh>
+<v t="leo.20190419020340.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20190419020340.4"><vh>實習任務一</vh>
+<v t="leo.20190419020340.5"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190419020340.6"><vh>建立隨身系統</vh>
+<v t="leo.20190419020340.7"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190419020340.12"><vh>ungit使用手冊</vh>
+<v t="leo.20190419020340.13"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190419020340.14" a="E"><vh>實習任務二</vh>
+<v t="leo.20190419020340.15"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190419020340.16" a="E"><vh>v-rep模擬-BubbleRob</vh>
+<v t="leo.20190419020340.17"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190419035431.1"><vh>BubbleRob</vh>
+<v t="leo.20190419035431.2"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190419041753.1" a="E"><vh>BubbleRob</vh>
+<v t="leo.20190419041753.2"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190419020340.18" a="E"><vh>手足球系統</vh>
+<v t="leo.20190419020340.19"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190419020340.20" a="E"><vh>(2)V-rep</vh>
+<v t="leo.20190419020340.21"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190419031805.1" a="E"><vh>個人心得</vh>
+<v t="leo.20190419031805.2"><vh>1-2</vh></v>
+</v>
+<v t="leo.20190419031950.1" a="E"><vh>結尾</vh>
+<v t="leo.20190419031950.2"><vh>1-2</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -823,6 +861,212 @@ github恢復了,普天同慶!
 
 * 報告時被說前言的內容沒打完，看了一下是之前忘記刪掉的，然後做了超久的每周進度根本沒派上用場
 
+</t>
+<t tx="leo.20190419020340.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190419020340.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190419020340.13">### ungit使用手冊
+
+由其他組員編寫
+
+[ungit安裝及使用說明](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/week3.html)</t>
+<t tx="leo.20190419020340.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190419020340.15">### 實習任務二
+
+* v-rep模擬-BubbleRob
+
+* 手足球系統
+
+    (1)Onshape 
+    
+    (2)V-rep
+
+* 個人心得</t>
+<t tx="leo.20190419020340.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190419020340.17">### v-rep模擬-BubbleRob
+&lt;img src="http://www.coppeliarobotics.com/helpFiles/en/images/bubbleRobTut1.jpg" width="600" height="400" alt=""&gt;
+
+根據v-rep的教學手冊[BubbleRob tutorial](http://www.coppeliarobotics.com/helpFiles/en/bubbleRobTutorial.htm)來練習使用v-rep</t>
+<t tx="leo.20190419020340.18">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190419020340.19">### 手足球系統(1)Onshape
+
+由其他組員編寫
+
+&lt;img src="https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/images/%E7%B5%84%E5%90%88.PNG" width="600" height="300" alt=""&gt;
+
+[球員](https://cad.onshape.com/documents/42c36a84d62950168ebca0f3/w/f1702970d1df65d422c8473c/e/bd76f28373fbad738b5cb1ae)  [桿子](https://cad.onshape.com/documents/ce9a467c873433002afbebbe/w/990ac62b0487b86db707dfda/e/3b1e99e137582926f26a4ce6)  [球場](https://cad.onshape.com/documents/beea80ab157b5c6fce1314ef/w/48391349dbaefae52b3ad62d/e/0c9ee64798e9da17fc76db8b)  [組合圖](https://cad.onshape.com/documents/beea80ab157b5c6fce1314ef/w/48391349dbaefae52b3ad62d/e/09228db1db2bc71c3f08cb03)
+
+[詳細內容](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/40623204-5.html)</t>
+<t tx="leo.20190419020340.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190419020340.20">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190419020340.21">(2)V-rep
+
+由其他組員編寫</t>
+<t tx="leo.20190419020340.3">## 產品協同設計實習分組報告
+
+虎科大機械設計工程系
+
+二乙-第五組-40623223-任明彥
+
+[bg5 warehousing](https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g5)
+
+[bg5 website](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5)
+
+
+[bg5 blog](:https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/blog)</t>
+<t tx="leo.20190419020340.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190419020340.5">### 實習任務一
+
+* 建立隨身系統
+
+* ungit
+
+### w1取分項目
+
+* (1)編寫亂數分組介面
+
+* (2)修改分組程式
+
+* (3)ungit使用手冊</t>
+<t tx="leo.20190419020340.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190419020340.7">### 建立隨身系統
+
+自行建立隨身系統，並使用[HxD](https://mh-nexus.de/en/hxd/)修改內部程式，下載 [SciTE](https://www.scintilla.org/SciTEDownload.html)、[KDiff](https://sourceforge.net/projects/kdiff3/files/)、[TCC](https://bellard.org/tcc/)等，再利用SciTE修改 start.bat 及 stop.bat
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bptcG7qk94I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+[詳細教學內容](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/week1.html)</t>
+<t tx="leo.20190419031805.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190419031805.2">### 個人心得
+
+每周心得上傳至分組網站內，2、7為放假
+
+[w1](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/40623223-1.html)
+w2
+[w3](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/40623223-3.html)
+[w4](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/40623223-4.html)
+[w5](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/40623223-5.html)
+[w6](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/40623223-6.html)
+w7
+[w8](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/40623223-8.html)
+</t>
+<t tx="leo.20190419031950.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190419031950.2">### 結尾
+
+本次的分組協同，我除了練習上面所列出得v-rep-BubbleRob外，基本上沒幫到什麼忙，而且連BubbleRob都做不好，我覺得我好廢
+
+不過我還是有把該做的事做完，像是每周的心得什麼的，都有再推送，雖然有一些時候會忘記打就是了
+
+.....覺得我好像有點不太妙，感覺學分離我又更遙遠了一步。</t>
+<t tx="leo.20190419035431.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190419035431.2">在經過幾周的練習後已慢慢地完成但還是碰到了一些問題
+
+&lt;img src="https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/images/vrep_QKjqHAmHGD.png" width="800" height="300" alt=""&gt;
+
+</t>
+<t tx="leo.20190419041753.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190419041753.2">上述之問題使得感測器的功能無法作用
+
+&lt;img src="https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/images/XhpCZ0PyiR.gif" width="800" height="400" alt=""&gt;
 </t>
 </tnodes>
 </leo_file>
