@@ -164,21 +164,6 @@
 <v t="leo.20190612231107.14"><vh>BubbleRob</vh>
 <v t="leo.20190612231107.15"><vh>1-2</vh></v>
 </v>
-<v t="leo.20190612231107.16"><vh>BubbleRob</vh>
-<v t="leo.20190612231107.17"><vh>1-2</vh></v>
-</v>
-<v t="leo.20190612231107.18"><vh>手足球系統</vh>
-<v t="leo.20190612231107.19"><vh>1-2</vh></v>
-</v>
-<v t="leo.20190612231107.20"><vh>(2)V-rep</vh>
-<v t="leo.20190612231107.21"><vh>1-2</vh></v>
-</v>
-<v t="leo.20190612231107.22"><vh>個人心得</vh>
-<v t="leo.20190612231107.23"><vh>1-2</vh></v>
-</v>
-<v t="leo.20190612231107.24"><vh>結尾</vh>
-<v t="leo.20190612231107.25"><vh>1-2</vh></v>
-</v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
@@ -1086,12 +1071,9 @@ github恢復了,普天同慶!
 
 						
 </t>
-<t tx="leo.20190612231107.13">### v-rep模擬-BubbleRob
-&lt;img src="http://www.coppeliarobotics.com/helpFiles/en/images/bubbleRobTut1.jpg" width="600" height="400" alt=""&gt;
+<t tx="leo.20190612231107.13">上述之圖檔下載
 
-根據v-rep的教學手冊[BubbleRob tutorial](http://www.coppeliarobotics.com/helpFiles/en/bubbleRobTutorial.htm)來練習使用v-rep
-
-</t>
+[下載](https://www.youtube.com/redirect?redir_token=zxW-FiOOU_zbuCA7Zv08PoQ2Kv18MTU2MDUwMDg4MUAxNTYwNDE0NDgx&amp;event=video_description&amp;v=sLmyLK9pJms&amp;q=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1IIuC0pwUY3HihgkMs0XM1sGeRZh3zWkS)</t>
 <t tx="leo.20190612231107.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1101,44 +1083,9 @@ github恢復了,普天同慶!
 
 						
 </t>
-<t tx="leo.20190612231107.15">在經過幾周的練習後已慢慢地完成但還是碰到了一些問題
+<t tx="leo.20190612231107.15">協同產品設計實習期末報告
 
-&lt;img src="https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/images/vrep_QKjqHAmHGD.png" width="800" height="300" alt=""&gt;
-
-</t>
-<t tx="leo.20190612231107.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190612231107.17">上述之問題使得感測器的功能無法作用
-
-&lt;img src="https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/images/XhpCZ0PyiR.gif" width="800" height="400" alt=""&gt;
-</t>
-<t tx="leo.20190612231107.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190612231107.19">### 手足球系統(1)Onshape
-
-由其他組員編寫
-
-&lt;img src="https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/images/%E7%B5%84%E5%90%88.PNG" width="600" height="300" alt=""&gt;
-
-[球員](https://cad.onshape.com/documents/42c36a84d62950168ebca0f3/w/f1702970d1df65d422c8473c/e/bd76f28373fbad738b5cb1ae)  [桿子](https://cad.onshape.com/documents/ce9a467c873433002afbebbe/w/990ac62b0487b86db707dfda/e/3b1e99e137582926f26a4ce6)  [球場](https://cad.onshape.com/documents/beea80ab157b5c6fce1314ef/w/48391349dbaefae52b3ad62d/e/0c9ee64798e9da17fc76db8b)  [組合圖](https://cad.onshape.com/documents/beea80ab157b5c6fce1314ef/w/48391349dbaefae52b3ad62d/e/09228db1db2bc71c3f08cb03)
-
-[詳細內容](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/40623204-5.html)
-
-</t>
+&lt;iframe width="796" height="448" src="https://www.youtube.com/embed/sLmyLK9pJms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20190612231107.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1147,60 +1094,6 @@ github恢復了,普天同慶!
 
 
 						
-</t>
-<t tx="leo.20190612231107.20">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190612231107.21">(2)V-rep
-
-由其他組員編寫
-
-</t>
-<t tx="leo.20190612231107.22">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190612231107.23">### 個人心得
-
-每周心得上傳至分組網站內，2、7為放假
-
-[w1](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/40623223-1.html)
-w2
-[w3](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/40623223-3.html)
-[w4](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/40623223-4.html)
-[w5](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/40623223-5.html)
-[w6](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/40623223-6.html)
-w7
-[w8](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/40623223-8.html)
-</t>
-<t tx="leo.20190612231107.24">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190612231107.25">### 結尾
-
-本次的分組協同，我除了練習上面所列出得v-rep-BubbleRob外，基本上沒幫到什麼忙，而且連BubbleRob都做不好，我覺得我好廢
-
-不過我還是有把該做的事做完，像是每周的心得什麼的，都有再推送，雖然有一些時候會忘記打就是了
-
-.....覺得我好像有點不太妙，感覺學分離我又更遙遠了一步。
-
 </t>
 <t tx="leo.20190612231107.3">## 期末分組協同報告
 
@@ -1212,7 +1105,9 @@ w7
 
 [分組倉儲 BG5](https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g5)
 
-[個人倉儲](https://github.com/mdecadp2018/site-40623223)</t>
+[個人倉儲](https://github.com/mdecadp2018/site-40623223)
+
+</t>
 <t tx="leo.20190612231107.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1224,9 +1119,11 @@ w7
 </t>
 <t tx="leo.20190612231107.5">### 協同分配工作-尺寸分析
 
-分析球員之尺寸大小是否會造成干涉
+分析[球員](https://cad.onshape.com/documents/73bb44a20049bdddce1db6be/w/e4ab6a3cc3faafb232290ae5/e/ebb58b7c604a46d292b79912)之尺寸大小是否會造成干涉
 
-&lt;img src="https://i.imgur.com/EVzswnB.png" width="700" height="400" alt=""&gt;</t>
+&lt;img src="https://i.imgur.com/EVzswnB.png" width="700" height="400" alt=""&gt;
+
+</t>
 <t tx="leo.20190612231107.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1236,7 +1133,7 @@ w7
 
 						
 </t>
-<t tx="leo.20190612231107.7">利用solvespece來分析球員機是否能在接觸到球的情況下不會互相干涉
+<t tx="leo.20190612231107.7">利用[solvespece](http://solvespace.com/index.pl)來分析球員機是否能在接觸到球的情況下不會互相干涉
 
 &lt;img src="https://i.imgur.com/gAi2AaA.png" width="800" height="550" alt=""&gt;
 
