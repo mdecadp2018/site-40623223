@@ -164,6 +164,9 @@
 <v t="leo.20190612231107.14"><vh>BubbleRob</vh>
 <v t="leo.20190612231107.15"><vh>1-2</vh></v>
 </v>
+<v t="leo.20190617160439.1"><vh>BubbleRob</vh>
+<v t="leo.20190617160439.2"><vh>1-2</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
@@ -1073,7 +1076,9 @@ github恢復了,普天同慶!
 </t>
 <t tx="leo.20190612231107.13">上述之圖檔下載
 
-[下載](https://www.youtube.com/redirect?redir_token=zxW-FiOOU_zbuCA7Zv08PoQ2Kv18MTU2MDUwMDg4MUAxNTYwNDE0NDgx&amp;event=video_description&amp;v=sLmyLK9pJms&amp;q=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1IIuC0pwUY3HihgkMs0XM1sGeRZh3zWkS)</t>
+[下載](https://www.youtube.com/redirect?redir_token=zxW-FiOOU_zbuCA7Zv08PoQ2Kv18MTU2MDUwMDg4MUAxNTYwNDE0NDgx&amp;event=video_description&amp;v=sLmyLK9pJms&amp;q=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1IIuC0pwUY3HihgkMs0XM1sGeRZh3zWkS)
+
+</t>
 <t tx="leo.20190612231107.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1085,7 +1090,9 @@ github恢復了,普天同慶!
 </t>
 <t tx="leo.20190612231107.15">協同產品設計實習期末報告
 
-&lt;iframe width="796" height="448" src="https://www.youtube.com/embed/sLmyLK9pJms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="796" height="448" src="https://www.youtube.com/embed/sLmyLK9pJms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190612231107.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1152,5 +1159,25 @@ github恢復了,普天同慶!
 &lt;img src="https://i.imgur.com/WEIDdwT.png" width="800" height="550" alt=""&gt;
 
 </t>
+<t tx="leo.20190617160439.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190617160439.2">個人自評        60分
+
+    學員出席 (20%)                    20%
+
+    Github 倉儲管理  (20%)          14%          
+
+    Onshape 協同操作 (20%)                   18% 
+
+    V-rep 模擬 (20%)                    8%
+
+    程式開發 (20%)                    0%</t>
 </tnodes>
 </leo_file>
